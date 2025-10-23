@@ -2033,6 +2033,7 @@
 - [Pranay Gadh] (https://github.com/Pranay22077)
 - [Swastik kumar](https://github.com/Skip06)
 - [Rishabh-8755]{https://github.com/Rishabh-8755}
+- [jsdtwry](https://github.com/jsdtwry)
 - [Camillo Ballani](https://github.com/cballaniFuturisten/)
 - [Devesh Sharma](https://github.com/DS2901)
 - [Madhu](https://github.com/Madhu696969)
